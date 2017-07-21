@@ -17,9 +17,9 @@ define(['playbackManager', 'pluginManager', 'browser', 'connectionManager', 'eve
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'Aeneas';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'aeneas';
 
         var settingsObjectName = self.id + '/skinsettings';
 
